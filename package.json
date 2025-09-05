@@ -1,5 +1,5 @@
 {
-  "name": "cloudrun-proxy",
+  "name": "prox",
   "version": "1.0.0",
   "description": "Public HTTP/HTTPS proxy for Cloud Run",
   "main": "server.js",
