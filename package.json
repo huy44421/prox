@@ -1,0 +1,10 @@
+{
+  "name": "cloudrun-proxy",
+  "version": "1.0.0",
+  "description": "Public HTTP/HTTPS proxy for Cloud Run",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
